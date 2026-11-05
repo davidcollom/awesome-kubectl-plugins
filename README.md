@@ -44,7 +44,7 @@
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) — ⭐ 4,179 · Apache-2.0 — Bulk port forwarding Kubernetes services for local development.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) — ⭐ 20,080 · Apache-2.0 — Faster way to switch between clusters and namespaces in kubectl
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) — ⭐ 3,230 — Validate your Kubernetes configuration files, supports multiple Kubernetes versions
-- [derailed/k9s](https://github.com/derailed/k9s) — ⭐ 34,928 · Apache-2.0 — 🐶 Kubernetes CLI To Manage Your Clusters In Style\!
+- [derailed/k9s](https://github.com/derailed/k9s) — ⭐ 34,929 · Apache-2.0 — 🐶 Kubernetes CLI To Manage Your Clusters In Style\!
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) — ⭐ 7,326 · Apache-2.0 — Local development against a remote Kubernetes or OpenShift cluster
 - [bergerx/kubectl-status](https://github.com/bergerx/kubectl-status) — ⭐ 124 · Apache-2.0 — A kubectl plugin to print a human-friendly output that focuses on the status fields of the resources in kubernetes.
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) — ⭐ 5,856 · Apache-2.0 — The missing UI for Helm - visualize your releases
